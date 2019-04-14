@@ -4,7 +4,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.Before;
 import ua.procamp.streams.stream.AsIntLazyStream;
-import ua.procamp.streams.stream.AsIntStream;
 import ua.procamp.streams.stream.IntStream;
 
 public class StreamAppTest {
